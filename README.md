@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning about clean architecture, it's awesome
 - 💞️ I’m looking to collaborate on any kind of project.
 - 📫 How to reach me can visit my web page https://apreande-a-programar.com
+- [![committers.top badge](https://user-badge.committers.top/philippines/drualcman.svg)](https://user-badge.committers.top/philippines/drualcman)
+- <img src="https://komarev.com/ghpvc/?username=drualcman&label=Profile%20Views&color=565f89&style=flat" alt="Views">
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -17,7 +19,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-[![committers.top badge](https://user-badge.committers.top/philippines/drualcman.svg)](https://user-badge.committers.top/philippines/drualcman)
-
-<img src="https://komarev.com/ghpvc/?username=drualcman&label=Profile%20Views&color=565f89&style=flat" alt="Views">
