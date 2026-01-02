@@ -18,8 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<div align="left">  
-    [![committers.top badge](https://user-badge.committers.top/philippines/drualcman.svg)](https://user-badge.committers.top/philippines/drualcman)
+[![committers.top badge](https://user-badge.committers.top/philippines/drualcman.svg)](https://user-badge.committers.top/philippines/drualcman)
 
-    <img align="right" src="https://komarev.com/ghpvc/?username=drualcman&label=Profile%20Views&color=565f89&style=flat" alt="Views">
-</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=drualcman&label=Profile%20Views&color=565f89&style=flat" alt="Views">
