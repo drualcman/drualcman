@@ -19,8 +19,5 @@
 </div>
 
 ### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=drualcman&theme=dark&background=000000)](https://git.io/streak-stats)
-
-### :fire: Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drualcman)](https://github.com/anuraghazra/github-readme-stats)
+[![committers.top badge](https://user-badge.committers.top/philippines/drualcman.svg)](https://user-badge.committers.top/philippines/drualcman)
 
