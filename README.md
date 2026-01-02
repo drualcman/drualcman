@@ -20,4 +20,4 @@
 
 [![committers.top badge](https://user-badge.committers.top/philippines/drualcman.svg)](https://user-badge.committers.top/philippines/drualcman)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=drualcman&label=Profile%20Views&color=565f89&style=flat" alt="Views">
+<img src="https://komarev.com/ghpvc/?username=drualcman&label=Profile%20Views&color=565f89&style=flat" alt="Views">
